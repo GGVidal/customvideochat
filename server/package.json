@@ -1,0 +1,8 @@
+{
+  "name": "customVideoChat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GGVidal/customvideochat.git",
+  "author": "gabrielvidal <you@example.com>",
+  "license": "MIT"
+}
